@@ -8,13 +8,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA9u1T4opvrSjXqNuMcqkYgV01QzlmM_p8",
-  authDomain: "cairo-gyms-b75ca.firebaseapp.com",
-  databaseURL: "https://cairo-gyms-b75ca-default-rtdb.firebaseio.com",
-  projectId: "cairo-gyms-b75ca",
-  storageBucket: "cairo-gyms-b75ca.firebasestorage.app",
-  messagingSenderId: "423197874134",
-  appId: "1:423197874134:web:9de929d7c6c6cf77af7677",
+  apiKey: "AIzaSyBtkWQ-qv5nwN6UW7VT0XPRlkvUpQW0Jc4",
+  authDomain: "first15-61746.firebaseapp.com",
+  projectId: "first15-61746",
+  storageBucket: "first15-61746.firebasestorage.app",
+  messagingSenderId: "863193416249",
+  appId: "1:863193416249:web:33e74861fe4525086b83e8",
+  measurementId: "G-V7BYL3E21W"
 };
 
 // Initialize Firebase
